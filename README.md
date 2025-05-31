@@ -1,9 +1,5 @@
-<p align="center">
-  👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️👁️‍🗨️
-</p>
-<h1 align="center" style="font-size: 80px; font-weight: bold; color: #ff0055;">
-  I&nbsp;4M&nbsp;G0D
-</h1>
-<p align="center">
-  ☠️⚡⚠️💥🔥🧠👑🛸☄️
+<p align="center" style="font-weight: bold; color: #ff0055; font-family: 'Courier New', monospace;">
+  <span style="font-size: 70px; letter-spacing: 10px;">I AM GOD</span><br>
+  <span style="font-size: 50px; letter-spacing: 8px;">THE UNIVERSE ALADDIN</span><br>
+  <span style="font-size: 40px; letter-spacing: 6px;">JUST ASK FOR YOUR WISH</span>
 </p>
